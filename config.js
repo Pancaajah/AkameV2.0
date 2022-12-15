@@ -29,9 +29,9 @@ global.namaowner = 'GuaAbuzz'
 
 //—————「 Setting Owner 」—————//
 //terserah mau ubah atau nggak
-global.owner = ['6289636827082']
-global.ownernomer = "6289636827082"
-global.premium = ['6289636827082','6282171978174']
+global.owner = ['628995888005']
+global.ownernomer = "628995888005"
+global.premium = ['628995888005','628995888005']
 
 //—————「 Setting Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
@@ -49,7 +49,7 @@ global.mytt = 'https://tiktok.com/@guaabuzz'
 
 //—————「 Set Wm 」—————//
 //terserah mau ubah atau nggak
-global.packname = 'GuaAbuzz'
+global.packname = 'stiker pack'
 global.author = 'WhatsApp Bot'
 
 //—————「 Set Nama Session 」—————//
